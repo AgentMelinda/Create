@@ -1,12 +1,12 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "tag": "create:sleepers"
+    "tag": "dusts"
   },
   "loops": 1,
   "results": [
     {
-      "item": "create:track"
+      "item": "tfmg:sulfur_dust"
     }
   ],
   "sequence": [
@@ -18,10 +18,10 @@
         },
         [
           {
-            "tag": "forge:nuggets/iron"
+            "tag": "minecraft:redstone"
           },
           {
-            "tag": "forge:nuggets/zinc"
+            "tag": "minecraft:glowstone_dust"
           }
         ]
       ],
@@ -39,10 +39,10 @@
         },
         [
           {
-            "tag": "forge:nuggets/iron"
+            "tag": "minecraft:redstone"
           },
           {
-            "tag": "forge:nuggets/zinc"
+            "tag": "minecraft:glowstone_dust"
           }
         ]
       ],
